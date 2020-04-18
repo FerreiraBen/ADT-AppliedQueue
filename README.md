@@ -1,2 +1,2 @@
-# ADT - AppliedQueue
+# ADT - Applied Queue
 Application of Data Structure in single queue for simulations of control and monitoring of aircraft flight.
